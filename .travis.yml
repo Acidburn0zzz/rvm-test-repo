@@ -9,3 +9,4 @@ deploy:
   bucket: igor-dpl-debug
   on:
     all_branches: true
+  skip_cleanup: true
